@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ThomazMasayuki
-- 👀 I’m interested in python
+- 👀 Eu me interesso por Python, Power BI, Tableau, SQL, R, JavaScript
 - 🌱 I’m currently learning accountability, python, data science 
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me
