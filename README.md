@@ -26,6 +26,3 @@ Estou constantemente me aprofundando em:
 - Modelos Avançados de Classificação e Interpretação com SHAP
 - Risco de Crédito em cooperativas financeiras
 - Segurança de dados e auditoria automatizada
-
-## 📫 Contato
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/seu-usuario/)
