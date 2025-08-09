@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Thomaz Masayuki
 
 🎯 **Analista de Dados | Cientista de Dados | Desenvolvedor Python**  
-💼 Foco em automações inteligentes, análise financeira, risco de crédito e auditoria de dados  
+💼 Foco em automações inteligentes, análise financeira, risco de crédito, análise de churn.
 🔍 Interesso-me por soluções que combinem estatística, engenharia de dados e machine learning para gerar valor real.
 
 ## 🚀 Tecnologias e Ferramentas
