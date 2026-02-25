@@ -14,8 +14,8 @@
 ## 📌 Projetos em Destaque
 | Projeto | Descrição | Tecnologias | Links |
 |--------|-------------|-------------|-------------|
-| 🛡️ **Detecção de Fraudes em Transações** | Pipeline completo com tratamento, EDA, balanceamento de dados e modelo supervisionado para identificar fraudes em tempo real. | Python, Scikit-Learn, SMOTE, XGBoost | https://github.com/ThomazMasayuki/fraud_detection
-| 📑 **Leitor e Resumidor Inteligente de PDFs** | App em FastAPI que extrai dados de PDFs, aplica TF-IDF e resume usando modelo llama3:8b-instruct-q4_K_M. | Spacy, SymSpell, Transformers | https://github.com/ThomazMasayuki/resumo-pdf-ia
+| **Detecção de Fraudes em Transações** | Pipeline completo com tratamento, EDA, balanceamento de dados e modelo supervisionado para identificar fraudes em tempo real. | Python, Scikit-Learn, SMOTE, XGBoost | https://github.com/ThomazMasayuki/fraud_detection
+| **Leitor e Resumidor Inteligente de PDFs** | App em FastAPI que extrai dados de PDFs, aplica TF-IDF e resume usando modelo llama3:8b-instruct-q4_K_M. | Spacy, SymSpell, Transformers | https://github.com/ThomazMasayuki/resumo-pdf-ia
 | **Power BI - Financeiro, RH, Controladoria** | Painel em Power BI utilizando API de sistema ERP, atualizando diariamente, para tomada de decisão nas áreas Financeira, RH e Controladoria. | Power BI, DAX, API | https://github.com/ThomazMasayuki/power_bi_finance_rh_controladoria/ 
 | **Power BI - Transações Banco Central** | Painel em Power BI realizando API no banco central, atualizando total de transações durante o período de 2020 a 2024 | Power BI, API, DAX | https://github.com/ThomazMasayuki/power_bi_transacoes_bc/
 | **Painel Dashboard Projetos** | Dashboard financeiro para orientações dos projetos realizados, atualizado diariamente via banco de dados com insumo mensal | Power BI, DAX, SQL, Banco de Dados | https://github.com/ThomazMasayuki/painel_dashboard_projetos
