@@ -18,7 +18,7 @@ Atuo integrando estatística, machine learning e engenharia de dados para transf
 **Linguagens:**  
 Python, SQL, DAX, VBA, R, JavaScript
 
-**Data Science:** 
+**Data Science:**                                                                                                                             
 Pandas, NumPy, Scikit-Learn, XGBoost, SHAP, SMOTE
 
 **Automação:**                                                                                                                                                                                                                                                                                                                                      
