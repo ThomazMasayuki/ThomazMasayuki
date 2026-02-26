@@ -27,7 +27,7 @@ Power Automate, Selenium, Playwright, Requests
 **Visualização:**
 Power BI, Streamlit, Matplotlib, Plotly
 
-**Cloud e Plataformass:**
+**Cloud e Plataformass:**                                                                                                                      
 Azure, SharePoint, APIs REST, Databricks, Power BI
 
 **Machine Learning:**
