@@ -21,7 +21,7 @@ Python, SQL, DAX, VBA, R, JavaScript
 **Data Science:** 
 Pandas, NumPy, Scikit-Learn, XGBoost, SHAP, SMOTE
 
-**Automação:** 
+**Automação:**                                                                                                                                                                                                                                                                                                                                      
 Power Automate, Selenium, Playwright, Requests
 
 **Visualização:**
