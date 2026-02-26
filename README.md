@@ -6,9 +6,7 @@ Profissional orientado a dados com atuação em análise estratégica, engenhari
 
 Atuando em:
 
-- Construção de indicadores táticos e operacionais
 - Modelagem e estruturação de dados para análise e BI
-- Identificação de desvios e análise de causa raiz
 - Automação de processos corporativos
 - Desenvolvimento de dashboards executivos
 - Integração de múltiplas fontes de dados
