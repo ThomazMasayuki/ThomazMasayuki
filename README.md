@@ -46,3 +46,6 @@ Azure, SharePoint, APIs REST, Databricks, Power BI
 
 ## 📫 Contato
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/thomazmasayuki/)
+
+## ✍🏽 Publicações
+[![Medium](https://img.shields.io/badge/-Medium-black?style=flat&logo=medium)](https://medium.com/@yukitogashi96/)
