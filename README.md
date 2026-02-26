@@ -2,7 +2,7 @@
 
 🎯 **Especialista em Dados, Processos e Analytics | Data Analytics Engineer | Python Developer**
 
-Profissional orientado a dados com atuação em análise estratégica, engenharia de dados e melhoria de processos organizacionais. Experiência na construção de soluções analíticas que transformam dados operacionais em indicadores acionáveis, apoiando liderança na tomada de decisão.
+Profissional orientado a dados com atuação em análise estratégica, engenharia de dados e melhoria de processos organizacionais. Experiência na construção de soluções analíticas que transformam dados operacionais em indicadores acionáveis.
 
 Atuando em:
 
