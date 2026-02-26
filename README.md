@@ -1,37 +1,38 @@
 # Olá, sou o Thomaz Masayuki
 
-🎯 **Analista de Dados | Cientista de Dados | Engenheiro de Dados**  
+🎯 **Especialista em Dados, Processos e Analytics | Data Analytics Engineer | Python Developer**
 
-Especialista em construção de soluções orientadas a dados com foco em:
+Profissional orientado a dados com atuação em análise estratégica, engenharia de dados e melhoria de processos organizacionais. Experiência na construção de soluções analíticas que transformam dados operacionais em indicadores acionáveis, apoiando liderança na tomada de decisão.
 
+Atuando em:
+
+- Construção de indicadores táticos e operacionais
+- Modelagem e estruturação de dados para análise e BI
+- Identificação de desvios e análise de causa raiz
 - Automação de processos corporativos
-- Análise financeira e risco
-- Detecção de fraude
-- Modelagem preditiva
-- Engenharia e qualidade de dados
-- Metodologia Ágil e Gerenciamento de Projetos
-
-Atuo integrando estatística, machine learning e engenharia de dados para transformar dados complexos em decisões estratégicas.
+- Desenvolvimento de dashboards executivos
+- Integração de múltiplas fontes de dados
+- Aplicação de modelos analíticos e preditivos
 
 ## Tecnologias e Ferramentas
 
 **Linguagens:**  
 Python, SQL, DAX, VBA, R, JavaScript
 
-**Data Science:**                                                                                                                             
-Pandas, NumPy, Scikit-Learn, XGBoost, SHAP, SMOTE
+**Dados e Machine Learning:**                                                                                                                             
+Pandas, NumPy, Scikit-Learn, XGBoost, SHAP, Modelagem Preditiva, Clusterização, Feature Engineering
+
+**Data Engineering e ETL:**                                                                                                              
+APIs REST, Pipelines de dados, Integração de Sistemas, Modelagem de Dados, Tratamento e Validação
 
 **Automação:**                                                                                                                                                                                                                                                                                                                                      
-Power Automate, Selenium, Playwright, Requests
+Power Automate, Selenium, Playwright, Requests, RPA
 
-**Visualização:**                                                                                                                                                                                                                                                                                                                                   
+**BI e Visualização:**                                                                                                                                                                                                                                                                                                                                   
 Power BI, Streamlit, Matplotlib, Plotly
 
 **Cloud e Plataformass:**                                                                                                                      
 Azure, SharePoint, APIs REST, Databricks, Power BI
-
-**Machine Learning:**                                                                                                                                                                                                                                                                                                                               
-Modelos de classificação, engenharia de features, curva ROC, AUC
 
 ## Projetos Relevantes
 | Projeto | Descrição | Tecnologias | Links |
@@ -44,6 +45,8 @@ Modelos de classificação, engenharia de features, curva ROC, AUC
 | **Automação Certidões Negativas de Débitos** | Automação de certidões negativas de débitos para escritório contábil, criado em Python, implantado no computador e rodando a partir de um agendador | Python, Playwright | https://github.com/ThomazMasayuki/projeto-cnd
 | **API IBGE** | Processo de engenharia de dados, criado com arquitetura medalhão, focado na busca dos dados para utilização em painel e tomada de decisão | DataBricks, Python, API, PySpark, SQL | https://github.com/ThomazMasayuki/api_ibge
 | **Assistente Virtual por Voz** | Projeto voltado para uso de assistente virtual, com o objetivo de automação de pequenas tarefas, tais como: envio de e-mail personalizado, rodar automações automaticamente | Python, SpeechRecognition, PyAudio | https://github.com/ThomazMasayuki/assistencia_virtual/
+
+**Objetivo profissional:** atuar em ambientes orientados a dados onde seja possível melhorar processos, elevar eficiência operacional e apoiar decisões estratégicas por meio de análises robustas e inteligência analítica.
 
 ## 📫 Contato
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/thomazmasayuki/)
