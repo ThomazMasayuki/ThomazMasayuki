@@ -1,9 +1,9 @@
 # Olá, sou o Thomaz Masayuki
 
 🎯 **Analista de Dados | Cientista de Dados | Engenheiro de Dados | Desenvolvedor Python**  
-💼 Foco em automações, análise financeira e fraude, risco de crédito, análise de churn, clusterização, entre outros.
-🔍 A minha área de interesse são soluções que combinem estatística, engenharia de dados e machine learning.
-## 🚀 Tecnologias e Ferramentas
+- Foco em automações, análise financeira e fraude, risco de crédito, análise de churn, clusterização, entre outros.
+- A minha área de interesse são soluções que combinem estatística, engenharia de dados e machine learning.
+## Tecnologias e Ferramentas
 - **Linguagens:** Python, SQL, DAX, VBA, R, JavaScript
 - **Data Science:** Pandas, NumPy, Scikit-Learn, XGBoost, SHAP, SMOTE
 - **Automação:** Power Automate, Power Apps, Selenium, PyPDF2, pdfplumber, Requests
@@ -11,7 +11,7 @@
 - **Ferramentas:** Azure, SharePoint, APIs REST, Databricks, Power BI
 - **Machine Learning:** Modelos de classificação, engenharia de features, curva ROC, AUC
 
-## 📌 Projetos em Destaque
+## Projetos Relevantes
 | Projeto | Descrição | Tecnologias | Links |
 |----------------|-----------|-----------|-------------|
 | **Detecção de Fraudes em Transações** | Pipeline completo com tratamento, EDA, balanceamento de dados e modelo supervisionado para identificar fraudes em tempo real. | Python, Scikit-Learn, SMOTE, XGBoost | https://github.com/ThomazMasayuki/fraud_detection
