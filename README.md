@@ -44,7 +44,5 @@ Azure, SharePoint, APIs REST, Databricks, Power BI
 | **API IBGE** | Processo de engenharia de dados, criado com arquitetura medalhão, focado na busca dos dados para utilização em painel e tomada de decisão | DataBricks, Python, API, PySpark, SQL | https://github.com/ThomazMasayuki/api_ibge
 | **Assistente Virtual por Voz** | Projeto voltado para uso de assistente virtual, com o objetivo de automação de pequenas tarefas, tais como: envio de e-mail personalizado, rodar automações automaticamente | Python, SpeechRecognition, PyAudio | https://github.com/ThomazMasayuki/assistencia_virtual/
 
-**Objetivo profissional:** atuar em ambientes orientados a dados onde seja possível melhorar processos, elevar eficiência operacional e apoiar decisões estratégicas por meio de análises robustas e inteligência analítica.
-
 ## 📫 Contato
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/thomazmasayuki/)
