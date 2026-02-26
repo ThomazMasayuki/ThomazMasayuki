@@ -1,15 +1,37 @@
 # Olá, sou o Thomaz Masayuki
 
-🎯 **Analista de Dados | Cientista de Dados | Engenheiro de Dados | Desenvolvedor Python**  
-- Foco em automações, análise financeira e fraude, risco de crédito, análise de churn, clusterização, entre outros.
-- A minha área de interesse são soluções que combinem estatística, engenharia de dados e machine learning.
+🎯 **Analista de Dados | Cientista de Dados | Engenheiro de Dados**  
+
+Especialista em construção de soluções orientadas a dados com foco em:
+
+- Automação de processos corporativos
+- Análise financeira e risco
+- Detecção de fraude
+- Modelagem preditiva
+- Engenharia e qualidade de dados
+- Metodologia Ágil e Gerenciamento de Projetos
+
+Atuo integrando estatística, machine learning e engenharia de dados para transformar dados complexos em decisões estratégicas.
+
 ## Tecnologias e Ferramentas
-- **Linguagens:** Python, SQL, DAX, VBA, R, JavaScript
-- **Data Science:** Pandas, NumPy, Scikit-Learn, XGBoost, SHAP, SMOTE
-- **Automação:** Power Automate, Power Apps, Selenium, PyPDF2, pdfplumber, Requests
-- **Visualização:** Power BI, Streamlit, Matplotlib, Plotly
-- **Ferramentas:** Azure, SharePoint, APIs REST, Databricks, Power BI
-- **Machine Learning:** Modelos de classificação, engenharia de features, curva ROC, AUC
+
+**Linguagens:**  
+Python, SQL, DAX, VBA, R, JavaScript
+
+**Data Science:** 
+Pandas, NumPy, Scikit-Learn, XGBoost, SHAP, SMOTE
+
+**Automação:** 
+Power Automate, Selenium, Playwright, Requests
+
+**Visualização:**
+Power BI, Streamlit, Matplotlib, Plotly
+
+**Cloud e Plataformass:**
+Azure, SharePoint, APIs REST, Databricks, Power BI
+
+**Machine Learning:**
+Modelos de classificação, engenharia de features, curva ROC, AUC
 
 ## Projetos Relevantes
 | Projeto | Descrição | Tecnologias | Links |
