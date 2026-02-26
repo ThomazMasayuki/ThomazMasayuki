@@ -24,7 +24,7 @@ Pandas, NumPy, Scikit-Learn, XGBoost, SHAP, SMOTE
 **Automação:**                                                                                                                                                                                                                                                                                                                                      
 Power Automate, Selenium, Playwright, Requests
 
-**Visualização:**
+**Visualização:**                                                                                                                                                                                                                                                                                                                                   
 Power BI, Streamlit, Matplotlib, Plotly
 
 **Cloud e Plataformass:**                                                                                                                      
