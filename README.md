@@ -30,7 +30,7 @@ Power BI, Streamlit, Matplotlib, Plotly
 **Cloud e Plataformass:**                                                                                                                      
 Azure, SharePoint, APIs REST, Databricks, Power BI
 
-**Machine Learning:**
+**Machine Learning:**                                                                                                                                                                                                                                                                                                                               
 Modelos de classificação, engenharia de features, curva ROC, AUC
 
 ## Projetos Relevantes
