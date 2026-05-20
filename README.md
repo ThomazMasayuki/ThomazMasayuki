@@ -27,10 +27,10 @@ APIs REST, Pipelines de dados, Integração de Sistemas, Modelagem de Dados, Tra
 Power Automate, Selenium, Playwright, Requests, RPA
 
 **BI e Visualização:**                                                                                                                                                                                                                                                                                                                                   
-Power BI, Streamlit, Matplotlib, Plotly
+Power BI, Streamlit, Looker, Matplotlib, Plotly
 
 **Cloud e Plataformas:**                                                                                                                      
-Azure, SharePoint, APIs REST, Databricks, Power BI
+Azure, Snowflake, AWS, SharePoint, APIs REST, Databricks, Power BI
 
 ## Projetos Relevantes
 | Projeto | Descrição | Tecnologias | Links |
