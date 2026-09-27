@@ -35,6 +35,7 @@ Azure, Snowflake, AWS, SharePoint, APIs REST, Databricks, Power BI
 ## Projetos Relevantes
 | Projeto | Descrição | Tecnologias | Links |
 |----------------|-----------|-----------|-------------|
+|**Extrator de Faturas de Cartão de Crédito** | App desktop em Python que lê faturas de cartão em PDF, extrai os lançamentos, confronta a soma com o total da fatura e exporta para Excel. | Python, Tkinter, Shell | https://github.com/ThomazMasayuki/extrator_fatura
 | **Detecção de Fraudes em Transações** | Pipeline completo com tratamento, EDA, balanceamento de dados e modelo supervisionado para identificar fraudes em tempo real. | Python, Scikit-Learn, SMOTE, XGBoost, Random Forest | https://github.com/ThomazMasayuki/fraud_detection
 | **Leitor e Resumidor Inteligente de PDFs** | App em FastAPI que extrai dados de PDFs, aplica TF-IDF e resume usando modelo llama3:8b-instruct-q4_K_M. | Spacy, SymSpell, Transformers, TF-IDF | https://github.com/ThomazMasayuki/resumo-pdf-ia
 | **Power BI - Financeiro, RH, Controladoria** | Painel em Power BI utilizando API de sistema ERP, atualizando diariamente, para tomada de decisão nas áreas Financeira, RH e Controladoria. | Power BI, DAX, API, Banco de Dados, SQL | https://github.com/ThomazMasayuki/power_bi_finance_rh_controladoria/ 
