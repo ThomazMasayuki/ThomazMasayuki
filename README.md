@@ -1,6 +1,6 @@
 # Olá, sou o Thomaz Masayuki
 
-🎯 **Especialista em Dados, Processos e Analytics | Data Analytics Engineer | Python Developer**
+**Especialista em Dados, Processos e Analytics | Data Analytics Engineer | Python Developer**
 
 Profissional orientado a dados com atuação em análise estratégica, engenharia de dados e melhoria de processos organizacionais. Experiência na construção de soluções analíticas que transformam dados operacionais em indicadores acionáveis.
 
